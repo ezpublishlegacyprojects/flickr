@@ -1,0 +1,1 @@
+{flickr_tag_search($api_key,$tag,$per_page)}
